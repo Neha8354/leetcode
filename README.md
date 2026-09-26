@@ -234,6 +234,7 @@
 ## Array
 |  |
 | ------- |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Neha8354/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Neha8354/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Math
 |  |
@@ -243,10 +244,12 @@
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/Neha8354/leetcode/tree/master/1096-brace-expansion-ii) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Neha8354/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## String
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/Neha8354/leetcode/tree/master/1096-brace-expansion-ii) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Neha8354/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Backtracking
 |  |
 | ------- |
